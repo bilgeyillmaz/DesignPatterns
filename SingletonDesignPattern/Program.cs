@@ -36,7 +36,7 @@ namespace SingletonDesignPattern
             }
             public void Save()
             {
-                Console.WriteLine("Saved!!!");
+                Console.WriteLine("Saved!");
             }
 
         }
